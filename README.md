@@ -6,8 +6,16 @@ https://doi.org/10.3390/s24247978
 
 ![fully-automatic-sound-classification](https://github.com/mkaraaslan-dev/fully-automatic-voice-analysis-system/blob/main/figures/fully-automatic-sound-classification-rev-fully-automatic-sound-classification.drawio.png)
 
+# Train 
 
-
+## Train with CNN model
+```
+python train-cnn.py
+```
+## Train with  traditional ml model
+```
+python train_traditional_ml.py
+```
 # Citation
 ```
 Karaaslan, M., Turkoglu, B., Kaya, E., & Asuroglu, T. (2024).
