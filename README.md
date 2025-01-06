@@ -1,6 +1,6 @@
 # Voice analysis in dogs with deep learning: development of a fully automatic voice analysis system for bioacoustics studies
 
-## This repository contains the implementation of the study mentioned in the paper. If you use it in your work, please consider citing it.
+### This repository contains the implementation of the study mentioned in the paper. If you use it in your work, please consider citing it.
 https://doi.org/10.3390/s24247978 
 
 
