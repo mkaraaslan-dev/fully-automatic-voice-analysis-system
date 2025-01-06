@@ -4,7 +4,7 @@
 https://doi.org/10.3390/s24247978 
 
 
-![fully-automatic-sound-classification]([https://github.com/KARAASLAN-AI/uav-tracking-with-pose-estimaion/blob/main/images/Untitled%20(2).gif](https://github.com/mkaraaslan-dev/fully-automatic-voice-analysis-system/blob/main/figures/fully-automatic-sound-classification-rev-fully-automatic-sound-classification.drawio.png))
+![fully-automatic-sound-classification](https://github.com/KARAASLAN-AI/uav-tracking-with-pose-estimaion/blob/main/images/Untitled%20(2).gif](https://github.com/mkaraaslan-dev/fully-automatic-voice-analysis-system/blob/main/figures/fully-automatic-sound-classification-rev-fully-automatic-sound-classification.drawio.png)
 
 
 
