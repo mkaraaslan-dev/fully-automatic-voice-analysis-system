@@ -16,6 +16,11 @@ python train-cnn.py
 ```
 python train_traditional_ml.py
 ```
+# Analyze
+```
+python analyze.py
+```
+
 # Citation
 ```
 Karaaslan, M., Turkoglu, B., Kaya, E., & Asuroglu, T. (2024).
